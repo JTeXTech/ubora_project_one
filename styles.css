@@ -114,6 +114,10 @@ header .profile-image:hover {
   border-color: #425867;
 }
 
+.exp-card:hover {
+  border-color: #425867;
+}
+
 ul.main-skills {
   padding: 0;
   text-align: center;
